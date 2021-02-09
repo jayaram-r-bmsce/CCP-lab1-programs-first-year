@@ -13,3 +13,5 @@ printf("area of triangle=%lf\n",area);
 getch();
 return 0;
 }
+
+![Screenshot (4)](https://user-images.githubusercontent.com/78743957/107371915-d7d77a00-6b0a-11eb-8adb-1957a8b841f3.png)
